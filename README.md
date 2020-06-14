@@ -7,6 +7,5 @@
 - Extracting JSON response
 
 
-# App UI 
-<img src="https://github.com/swaraj961/30-Days_Google-Kotlin-Project/blob/master/UI.jpg" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
